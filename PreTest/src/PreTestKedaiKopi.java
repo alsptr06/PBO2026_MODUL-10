@@ -15,7 +15,7 @@ public class PreTestKedaiKopi {
        
         antrean.add("Budi");
         antrean.add("Siti");
-
+        
         mejaTerisi.add(4);
         mejaTerisi.add(7);
         mejaTerisi.add(4); 
